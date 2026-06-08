@@ -7,7 +7,7 @@
     background-position: center center;
     background-size: cover;
     display: flex;
-    align-item: center;
+    align-items: center;
 }
 
 .first-view-text {
