@@ -96,7 +96,7 @@ img {
     }
 
     .header-logo {
-        width: 100;
+        width: 100px;
     }
 
     .header-site-menu {
@@ -115,18 +115,6 @@ img {
         display: block;
     }
 
-    .main {
-        padding-top: 50px;
-    }
-
-    .footer-logo {
-        margin-top: 60px;
-    }
-
-    .copyright {
-        margin-top: 50px;
-    }
-
     .toggle-menu-button {
         display: block;
         width: 44px;
@@ -139,6 +127,18 @@ img {
         border: none;
         border-radius: 0;
         outline: none;
+    }
+
+    .main {
+        padding-top: 50px;
+    }
+
+    .footer-logo {
+        margin-top: 60px;
+    }
+
+    .copyright {
+        margin-top: 50px;
     }
 }
 
